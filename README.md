@@ -7,7 +7,7 @@ I'm Jon - engineer, product manager, software architect working @ www.hwintegral
 - 👯👯👯 I’m looking to collaborate on projects in the food-tech space, or potential co-founders on new projects
 - 💬💬💬 Ask me about software architecture, React Native, Python data engineering, AWS/GCP, 
 - 📫📫📫 How to reach me: 07854 651897 or jonathan.holloway @ gmail.com
-- ⚡⚡⚡ Fun fact(s): I ❤️ Moog, Prophet, Eventide, Ableton, Electribe, Blender, Basset Hounds 🐶, Great Food, Coffee
+- ⚡⚡⚡ Fun fact(s): I ❤️ Moog, Prophet, Eventide, Ableton, Korg, Blender, Basset Hounds 🐶, Great Food, Coffee
 
 ## How I work
 
