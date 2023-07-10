@@ -1,9 +1,6 @@
 ### Well hello there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jph98.visitor-badge)
-
-
-I'm Jon - engineer, product manager, software architect working @ www.hwintegral.com as a Chief Technology Officer with various scaleups/startups.  I've worked with 20+ companies on product launches, scaling up companies/products and getting people to their next funding rounds.
+I'm Jon - engineer, product, software architect working @as a Chief Technology Officer with various scaleups/startups.  I've worked with 20+ companies on product launches, scaling up companies/products and getting people to their next funding rounds.
 
 - 🔭🔭🔭 I’m currently working on building out products, micro-service architecture design, data platform dev, building teams and coaching engineers/CTO's and architects
 - 🌱🌱🌱 I’m learning Rust (and C), Cognitive Science, Blender and Unity
