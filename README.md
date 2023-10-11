@@ -11,7 +11,7 @@ I'm Jon - engineer, product, software architect working @as a Chief Technology O
 
 I'm a hands on CTO, I work with code, design, architecture - whatever is required.  I started off as a backend engineer with Java systems originally, then Ruby, Python and Javascript.  I mostly these days build out systems on Python and Javascript and apps on React and React Native.  Principles I follow:
 
-- ❤️ Get shit done, collaborate and make peoples lives easier, don't be an asshole
+- ❤️ Get stuff done, collaborate and make peoples lives easier.
 - ❤️ Always think with your product hat on, the OMTM and supporting the business
 - ❤️ Always think and do some design up-front, but always be coding
 - ❤️ Always think about the operational aspects of software and system qualities - don't throw crap into production
