@@ -18,7 +18,6 @@ Principles I follow:
 
 ## Get In Touch
 
-* Hire Me as a CTO for your scaleup/startup - www.hwintegral.com
-* Personal - www.jonathanholloway.co.uk
+* Hire Me - www.jonathanholloway.co.uk
 * Linkedin - https://www.linkedin.com/in/jonathanholloway/
 * Twitter - https://www.twitter.com/jph98
