@@ -6,6 +6,7 @@ I'm Jon - engineer, product, software architect working as a Chief Technology Of
 ## Repos
 
 [https://github.com/jph98/guitarmanuals](https://github.com/jph98/manuals)
+
 [https://github.com/jph98/guitar-tab-songs](https://github.com/jph98/guitar-tab-songs)
 
 ## How I work
