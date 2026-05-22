@@ -3,6 +3,11 @@ I'm Jon - engineer, product, software architect working as a Chief Technology Of
 - 🌱🌱🌱 I’m learning Blender, Unity, C and electronics (generally)
 - 📫📫📫 How to reach me: 07854 651897 or jonathan.holloway @ gmail.com
 
+## Repos
+
+[https://github.com/jph98/guitarmanuals](https://github.com/jph98/manuals)
+[https://github.com/jph98/guitar-tab-songs](https://github.com/jph98/guitar-tab-songs)
+
 ## How I work
 
 Principles I follow:
